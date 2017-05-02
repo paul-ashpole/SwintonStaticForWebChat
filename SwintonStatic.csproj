@@ -225,6 +225,7 @@
     <Content Include="Images\gold-star1.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Images\Mercedes.jpg" />
     <Content Include="Images\silver-star1.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
